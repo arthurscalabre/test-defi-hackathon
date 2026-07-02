@@ -9,7 +9,7 @@ Test
 ceci est un test sur l'ia
 
 ### Porteur
-le goat des echecs
+as
 
 ### Description longue
 c parce que j'aime bien chat gpt
@@ -60,7 +60,7 @@ Cochez les ressources utilisées en remplaçant `[ ]` par `[x]`.
 - [Document 2](hackathon-an-2026/docs/document-2.pdf)
 
 ### URL de démonstration
-https://votre-application.example.com
+https://socio-fiscal.leximpact.an.fr/?test_case=79
 
 ### Diapositives de présentation
 [Diapositives de présentation](docs/Timer-30sec.pdf)
