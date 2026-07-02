@@ -63,4 +63,4 @@ Cochez les ressources utilisées en remplaçant `[ ]` par `[x]`.
 https://socio-fiscal.leximpact.an.fr/?test_case=79
 
 ### Diapositives de présentation
-[Diapositives de présentation](docs/Timer-30sec.pdf)
+[Diapositives de présentation](docs/Résumé exécutif.pdf)
